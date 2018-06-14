@@ -1,2 +1,6 @@
 Hi every one
+<<<<<<< HEAD
 Hi good morning
+=======
+Good evening
+>>>>>>> bugfix
